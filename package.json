@@ -1,0 +1,8 @@
+{
+  "name": "passbook",
+  "version": "1.0.0",
+  "description": "Red social de reseñas de libros",
+  "main": "PassBook.js",
+  "scripts": { "start": "node PassBook.js" },
+  "engines": { "node": ">=22.5.0" }
+}
